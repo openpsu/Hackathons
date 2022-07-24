@@ -2,60 +2,60 @@
 Hackathons repository for all past PSU hackathons, from devpost and more
 
 ## 2022
-### Fall
+- ### Fall
 
-### [Spring](https://hackpsu-spring-2022.devpost.com/)
+- ### [Spring](https://hackpsu-spring-2022.devpost.com/)
 ***WORK IN PROGRESS***
 
 ## 2021
-### Fall
+- ### Fall
 
-### Spring
+- ### Spring
 
 
 ## 2019
-### Fall
+- ### Fall
 
-### Spring
+- ### Spring
 
 
 ## 2018
-### Fall
+- ### Fall
 
-### Spring
+- ### Spring
 
 
 ## 2017
-### Fall
+- ### Fall
 
-### Spring
+- ### Spring
 
 
 ## 2016
-### Fall
+- ### Fall
 
-### Spring
+- ### Spring
 
 
 ## 2015
-### Fall
+- ### Fall
 
-### Spring
+- ### Spring
 
 
 ## 2014
-### Fall
+- ### Fall
 
-### Spring
+- ### Spring
 
 
 ## 2013
-### Fall
+- ### Fall
 
-### Spring
+- ### Spring
 
 
 ## 2012
-### Fall
+- ### Fall
 
-### Spring
+- ### Spring
